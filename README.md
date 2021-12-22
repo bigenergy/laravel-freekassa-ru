@@ -4,14 +4,14 @@ Accept payments via FreeKassa.ru ([freekassa.ru](https://freekassa.ru/)) using t
 
 - receive payments, adding just the two callbacks
 
-#### Laravel >= 6.*, PHP >= 7.2
+#### Laravel >= 7.*, PHP >= 7.2
 
 ## Installation
 
 Require this package with composer.
 
 ``` bash
-composer require weishaypt/laravel-freekassa-ru
+composer require bigenergy/laravel-freekassa-ru dev-main 
 ```
 
 If you don't use auto-discovery, add the ServiceProvider to the providers array in `config/app.php`
