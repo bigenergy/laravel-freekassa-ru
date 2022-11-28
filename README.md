@@ -4,7 +4,7 @@ Accept payments via FreeKassa.ru ([freekassa.ru](https://freekassa.ru/)) using t
 
 - receive payments, adding just the two callbacks
 
-#### Laravel >= 8.*, PHP >= 7.2
+#### Laravel >= 9.*, PHP >= 8.1
 
 ## Installation
 
