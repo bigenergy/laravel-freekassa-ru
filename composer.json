@@ -1,6 +1,6 @@
 {
     "name": "bigenergy/laravel-freekassa-ru",
-    "description": "freekassa.ru payments for Laravel 7.0+",
+    "description": "freekassa.ru payments for Laravel 9.0+",
     "license": "MIT",
     "authors": [
         {
